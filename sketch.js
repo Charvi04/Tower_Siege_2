@@ -9,7 +9,7 @@ var score = 0;
 
 function preload()
 {
-  backgroundImg = loadImage("back.jpg");
+  backgroundImg = loadImage("Back.jpg");
 }
 
 function setup() {
