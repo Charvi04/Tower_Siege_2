@@ -11,7 +11,7 @@ class Hexagon{
         this.r = r;
         this.width = width;
         this.height = height;
-        this.image = loadImage("Images/Hexagon.png");
+        this.image = loadImage("Hexagon.png");
         World.add(world, this.body);
       }
       display(){
